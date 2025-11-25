@@ -1,14 +1,19 @@
 ### Hi, I'm Demet!
 
-👩🏼‍🎓 Currently studing Master of Data Science at the Macquarie University<br/>
-👩🏼‍🎓 Master's Degree in Engineering Management at the Galatasaray University<br/>
-👩🏼‍💻 Bachelor’s Degree in Industrial Engineering at the Eastern Mediterranean Univeresity<br/>
+👩🏻‍💻 Master of Data Science student exploring analytics, AI, and intelligent systems<br/>
+👩🏼‍🎓 Industrial Engineering background with a passion for optimisation & problem-solving<br/>
+🐍 Working with Python, R, and SQL to build data-driven solutions<br/>
+📊 Interested in machine learning, statistical modelling, and database technologies<br/>
+🎯 Aiming to combine engineering + data science in research and industry<br/>
 
 
 [![Demet's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtdmrc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dmtdmrc/github-readme-stats)
 
-<!-- Snake Game Repo View -->
+🔗Links
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+•⁠  ⁠GitHub: [dmtdmrc](https://github.com/dmtdmrc)
+
+•⁠  ⁠LinkedIn: *[demetdemirci](https://www.linkedin.com/in/demetdemirci/)*
+
+
+
